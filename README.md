@@ -1,4 +1,4 @@
-# chat-app
+# CHAT-APP
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -72,6 +72,9 @@ Usage:
 
 
 ![Image](https://github.com/user-attachments/assets/bc38a2f9-8679-49b4-ab68-65ae2c4122f7)
+
+
+![Image](https://github.com/user-attachments/assets/9ea68c24-4650-4fd6-b96c-bfa228dce2f7)
 
   
 
