@@ -1,2 +1,16 @@
 # chat-app
 This is my chat web app.
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: AMAN KUMAR
+
+INTERN ID: CT04DK766
+
+DOMAIN: Frontend Web Development
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
+
+
