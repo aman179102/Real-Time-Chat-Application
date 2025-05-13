@@ -1,0 +1,17 @@
+.message-input-form {
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  .message-input-form input {
+    flex: 1;
+    padding: 0.8rem 1rem;
+    border-radius: 20px;
+    border: 1px solid var(--border-color);
+  }
+  
+  .message-input-form button {
+    border-radius: 20px;
+    padding: 0.8rem 1.5rem;
+    font-weight: bold;
+  }

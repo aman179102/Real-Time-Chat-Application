@@ -1,0 +1,6 @@
+.message-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    padding-bottom: 1rem;
+  }

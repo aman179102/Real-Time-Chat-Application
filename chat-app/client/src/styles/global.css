@@ -1,0 +1,68 @@
+:root {
+    --primary-color: #4a6fa5;
+    --secondary-color: #166088;
+    --background-color: #f8f9fa;
+    --message-bg: #ffffff;
+    --current-user-message-bg: #e3f2fd;
+    --system-message-bg: #f0f0f0;
+    --text-color: #333333;
+    --light-text: #777777;
+    --border-color: #e0e0e0;
+    --online-color: #4caf50;
+    --offline-color: #f44336;
+    --error-color: #f44336;
+    --modal-overlay: rgba(0, 0, 0, 0.5);
+  }
+  
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+  }
+  
+  button {
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    background-color: var(--primary-color);
+    color: white;
+    transition: background-color 0.2s;
+    font-size: 1rem;
+  }
+  
+  button:hover {
+    background-color: var(--secondary-color);
+  }
+  
+  button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+  }
+  
+  input {
+    padding: 10px;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    font-size: 16px;
+    width: 100%;
+    transition: border-color 0.2s;
+  }
+  
+  input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+  }
+  
+  .error-message {
+    color: var(--error-color);
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+  }
