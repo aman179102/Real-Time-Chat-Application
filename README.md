@@ -1,5 +1,4 @@
 # chat-app
-This is my chat web app.
 
 COMPANY: CODTECH IT SOLUTIONS
 
