@@ -70,6 +70,9 @@ Usage:
   
   4.View online users in sidebar
 
+
+![Image](https://github.com/user-attachments/assets/bc38a2f9-8679-49b4-ab68-65ae2c4122f7)
+
   
 
 
